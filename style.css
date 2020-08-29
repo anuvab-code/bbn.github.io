@@ -1,0 +1,60 @@
+ html {
+height:100%;
+  background-image: linear-gradient(to left , #8e44ad, #3498db);}
+  .header {
+  padding: 80px;
+  text-align: center;
+   background-image: linear-gradient(to left , #8e44ad, #3498db);}
+  
+. h1 {
+font-size: 40px;
+}
+.topnav {
+overflow: hidden;
+background-image: linear-gradient(to right , #8e44ad, #3498db);
+position: relative;
+}
+.topnav #myLinks {
+display: none;
+}
+.topnav a {
+float: left;
+color: white;
+padding: 14px 16px;
+text-decoration: none;
+font-size: 17px;
+}
+.topnav a.icon {
+  float: right;
+  }
+  .topnav a:hover {
+  background-color: #ddd;
+   color: black;}
+   .active {
+   background-color: #8e44ad;
+    color: white;
+    }
+    .b {
+     border: 3px solid #3498db;
+      padding: 5px;
+      }
+       .clearfix::after {
+       content: "";
+        clear: both;
+        display: table;
+        }
+
+.img2 {
+width: 100px;
+  height: auto;
+float: left;
+}
+
+h3{
+
+position: relative;
+left:10px;
+bottom: -4px;
+color: white;
+} 
+
